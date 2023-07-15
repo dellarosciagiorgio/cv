@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.3)  14 JUL 2023 22:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.3)  15 JUL 2023 19:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/gnkz/Documents/cv/mio/cv.tex
-(/home/gnkz/Documents/cv/mio/cv.tex
+**/home/gnkz/Documents/cv/cv.tex
+(/home/gnkz/Documents/cv/cv.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -52,15 +52,95 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen145
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count196
+\mult@box=\box50
+\multicol@leftmargin=\dimen147
+\c@unbalance=\count197
+\c@collectmore=\count198
+\doublecol@number=\count199
+\multicoltolerance=\count266
+\multicolpretolerance=\count267
+\full@width=\dimen148
+\page@free=\dimen149
+\premulticols=\dimen150
+\postmulticols=\dimen151
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box51
+\last@line=\box52
+\maxbalancingoverflow=\dimen152
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@firstbox=\box55
+\mult@gfirstbox=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\c@minrows=\count268
+\c@columnbadness=\count269
+\c@finalcolumnbadness=\count270
+\last@try=\dimen153
+\multicolovershoot=\dimen154
+\multicolundershoot=\dimen155
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\mc@col@check@num=\count271
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
 ) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
@@ -80,39 +160,36 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks20
-) (./theme.sty
+)) (./theme.sty
 Package: theme theme
 )
-LaTeX Font Info:    Trying to load font information for T1+pbk on input line 25.
+LaTeX Font Info:    Trying to load font information for T1+pbk on input line 22.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pbk.fd
 File: t1pbk.fd 2001/06/04 font definitions for T1/pbk.
 )
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 25.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 22.
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count196
-\l__pdf_internal_box=\box50
+\l__color_backend_stack_int=\count272
+\l__pdf_internal_box=\box95
 ) (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -137,7 +214,7 @@ LaTeX Font Info:    ... okay on input line 25.
 * \footskip=30.0pt
 * \marginparwidth=57.0pt
 * \marginparsep=11.0pt
-* \columnsep=10.0pt
+* \columnsep=28.45274pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
@@ -150,42 +227,95 @@ LaTeX Font Info:    ... okay on input line 25.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
-\scratchdimen=\dimen147
-\scratchbox=\box51
-\nofMPsegments=\count198
-\nofMParguments=\count199
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count266
-\MPscratchDim=\dimen148
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
-\everyMPtoPDFconversion=\toks22
-)
+\scratchcounter=\count273
+\scratchdimen=\dimen158
+\scratchbox=\box96
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count276
+\MPscratchDim=\dimen159
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <20.74> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 28.
-LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <20.74> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 28.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <20.74> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <20.74> not available
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 25.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 29.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 29.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 26.
+<./imgs//phone.png, id=1, 411.136pt x 411.136pt>
+File: ./imgs//phone.png Graphic file (type png)
+<use ./imgs//phone.png>
+Package pdftex.def Info: ./imgs//phone.png  used on input line 28.
+(pdftex.def)             Requested size: 11.99478pt x 11.99478pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 28.
+<./imgs//email.png, id=3, 385.44pt x 385.44pt>
+File: ./imgs//email.png Graphic file (type png)
+<use ./imgs//email.png>
+Package pdftex.def Info: ./imgs//email.png  used on input line 29.
+(pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
+<./imgs//github.png, id=4, 352.40228pt x 352.40228pt>
+File: ./imgs//github.png Graphic file (type png)
+<use ./imgs//github.png>
+Package pdftex.def Info: ./imgs//github.png  used on input line 30.
+(pdftex.def)             Requested size: 11.99657pt x 11.99657pt.
+ (./sections/1_summary.tex
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <14.4> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 1.
+) (./sections/2_experience.tex
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <12> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <12> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <12> not available
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 3.
+LaTeX Font Info:    Font shape `T1/pbk/m/sl' in size <12> not available
+(Font)              Font shape `T1/pbk/l/sl' tried instead on input line 4.
+LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 6.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd
+File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
+)
+LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <12> not available
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 6.
+) (./sections/3_education.tex) (./sections/4_skills.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 6.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cv.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imgs//phone.png> <./imgs//email.png> <./imgs//github.png>]) (./cv.aux) ) 
 Here is how much of TeX's memory you used:
- 2534 strings out of 478287
- 37665 string characters out of 5849290
- 336034 words of memory out of 5000000
- 20744 multiletter control sequences out of 15000+600000
- 477858 words of font info for 38 fonts, out of 8000000 for 9000
+ 3106 strings out of 478287
+ 47296 string characters out of 5849290
+ 353684 words of memory out of 5000000
+ 21258 multiletter control sequences out of 15000+600000
+ 492015 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,204b,157s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on cv.pdf (1 page, 10149 bytes).
+ 55i,6n,62p,210b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
+Output written on cv.pdf (1 page, 73019 bytes).
 PDF statistics:
- 14 PDF objects out of 1000 (max. 8388607)
- 8 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 18 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
