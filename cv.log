@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.3)  16 JUL 2023 12:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.3)  8 OCT 2023 13:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -52,25 +52,128 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen145
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen147
+\Hy@linkcounter=\count196
+\Hy@pagecounter=\count197
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel languages
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count198
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count199
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen148
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count266
+\Field@Width=\dimen149
+\Fld@charsize=\dimen150
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count267
+\c@Item=\count268
+\c@Hfootnote=\count269
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count270
+\c@bookmark@seq@number=\count271
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip49
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count196
+\c@tracingmulticols=\count272
 \mult@box=\box50
-\multicol@leftmargin=\dimen147
-\c@unbalance=\count197
-\c@collectmore=\count198
-\doublecol@number=\count199
-\multicoltolerance=\count266
-\multicolpretolerance=\count267
-\full@width=\dimen148
-\page@free=\dimen149
-\premulticols=\dimen150
-\postmulticols=\dimen151
-\multicolsep=\skip49
-\multicolbaselineskip=\skip50
+\multicol@leftmargin=\dimen151
+\c@unbalance=\count273
+\c@collectmore=\count274
+\doublecol@number=\count275
+\multicoltolerance=\count276
+\multicolpretolerance=\count277
+\full@width=\dimen152
+\page@free=\dimen153
+\premulticols=\dimen154
+\postmulticols=\dimen155
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
 \partial@page=\box51
 \last@line=\box52
-\maxbalancingoverflow=\dimen152
+\maxbalancingoverflow=\dimen156
 \mult@rightbox=\box53
 \mult@grightbox=\box54
 \mult@firstbox=\box55
@@ -111,15 +214,15 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \@tempa=\box90
 \@tempa=\box91
 \@tempa=\box92
-\c@minrows=\count268
-\c@columnbadness=\count269
-\c@finalcolumnbadness=\count270
-\last@try=\dimen153
-\multicolovershoot=\dimen154
-\multicolundershoot=\dimen155
+\c@minrows=\count278
+\c@columnbadness=\count279
+\c@finalcolumnbadness=\count280
+\last@try=\dimen157
+\multicolovershoot=\dimen158
+\multicolundershoot=\dimen159
 \mult@nat@firstbox=\box93
 \colbreak@box=\box94
-\mc@col@check@num=\count271
+\mc@col@check@num=\count281
 ) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
@@ -132,8 +235,8 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen156
-\Gin@req@width=\dimen157
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
 ) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -160,9 +263,7 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (./theme.sty
-Package: theme theme
-)
+))
 LaTeX Font Info:    Trying to load font information for T1+pbk on input line 22.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pbk.fd
 File: t1pbk.fd 2001/06/04 font definitions for T1/pbk.
@@ -171,7 +272,7 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 22.
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count272
+\l__color_backend_stack_int=\count282
 \l__pdf_internal_box=\box95
 ) (./cv.aux)
 \openout1 = `cv.aux'.
@@ -189,6 +290,10 @@ LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
@@ -225,18 +330,35 @@ LaTeX Font Info:    ... okay on input line 22.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+Package hyperref Info: Link coloring OFF on input line 22.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count283
+)
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
+ (./cv.out) (./cv.out)
+\@outlinefile=\write3
+\openout3 = `cv.out'.
+
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count273
-\scratchdimen=\dimen158
+\scratchcounter=\count284
+\scratchdimen=\dimen162
 \scratchbox=\box96
-\nofMPsegments=\count274
-\nofMParguments=\count275
+\nofMPsegments=\count285
+\nofMParguments=\count286
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count276
-\MPscratchDim=\dimen159
-\MPnumerator=\count277
-\makeMPintoPDFobject=\count278
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen163
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
 \everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -254,7 +376,7 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 26.
-<./imgs//phone.png, id=1, 411.136pt x 411.136pt>
+<./imgs//phone.png, id=5, 411.136pt x 411.136pt>
 File: ./imgs//phone.png Graphic file (type png)
 <use ./imgs//phone.png>
 Package pdftex.def Info: ./imgs//phone.png  used on input line 28.
@@ -263,35 +385,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 28.
-<./imgs//email.png, id=3, 385.44pt x 385.44pt>
+<./imgs//email.png, id=8, 385.44pt x 385.44pt>
 File: ./imgs//email.png Graphic file (type png)
 <use ./imgs//email.png>
 Package pdftex.def Info: ./imgs//email.png  used on input line 29.
 (pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
-<./imgs//github.png, id=4, 352.40228pt x 352.40228pt>
+<./imgs//github.png, id=10, 352.40228pt x 352.40228pt>
 File: ./imgs//github.png Graphic file (type png)
 <use ./imgs//github.png>
 Package pdftex.def Info: ./imgs//github.png  used on input line 30.
 (pdftex.def)             Requested size: 11.99657pt x 11.99657pt.
- (./sections/1_summary.tex
+ (./sections/1_education.tex
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <14.4> not available
 (Font)              Font shape `T1/pbk/db/n' tried instead on input line 1.
-) (./sections/2_experience.tex
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <12> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <12> not available
 (Font)              Font shape `T1/pbk/db/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/pbk/m/sl' in size <12> not available
+(Font)              Font shape `T1/pbk/l/sl' tried instead on input line 3.
+) (./sections/2_experience.tex
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <12> not available
 (Font)              Font shape `T1/pbk/db/sc' tried instead on input line 3.
-LaTeX Font Info:    Font shape `T1/pbk/m/sl' in size <12> not available
-(Font)              Font shape `T1/pbk/l/sl' tried instead on input line 4.
 LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 6.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <12> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 6.
-) (./sections/3_education.tex) (./sections/4_skills.tex
+) (./sections/3_skills.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -300,25 +422,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 6.
-
-Overfull \vbox (7.74483pt too high) has occurred while \output is active []
-
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imgs//phone.png> <./imgs//email.png> <./imgs//github.png>]) (./cv.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imgs//phone.png> <./imgs//email.png> <./imgs//github.png>]) (./cv.aux)
+Package rerunfilecheck Info: File `cv.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
 Here is how much of TeX's memory you used:
- 3106 strings out of 478287
- 47296 string characters out of 5849290
- 353684 words of memory out of 5000000
- 21258 multiletter control sequences out of 15000+600000
+ 9798 strings out of 478287
+ 152360 string characters out of 5849290
+ 459818 words of memory out of 5000000
+ 27847 multiletter control sequences out of 15000+600000
  492015 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,210b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,63p,235b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on cv.pdf (1 page, 73015 bytes).
+Output written on cv.pdf (1 page, 73052 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
+ 47 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

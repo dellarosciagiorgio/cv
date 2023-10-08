@@ -3,6 +3,7 @@
     \usepackage[utf8]{inputenc}
     \usepackage{bookman}
 \usepackage[margin=2cm]{geometry}
+\usepackage{hyperref}
 \usepackage{multicol}
     \setlength{\columnsep}{1cm}
 \usepackage{graphics, graphicx}
@@ -17,7 +18,6 @@
         }
     }
 \usepackage[dvipsnames]{color, xcolor}
-\usepackage{theme}
 
 \begin{document}
     \pagenumbering{gobble}
@@ -25,13 +25,15 @@
         \huge{\textbf{\textsc{Giorgio Della Roscia}}}\\
         \Large{\textsc{perito informatico}}\\[3mm]
         \normalsize{
-            \img{phone}+39 346 79 78 232$\quad\vert\quad$
-            \img{email}dellarosciagiorgio@gmail.com$\quad\vert\quad$
-            \img{github}dellarosciagiorgio
+            \href{tel:+393467989232}{\img{phone}+39 346 79 78 232}$\quad\vert\quad$
+            \href{mailto:dellarosciagiorgio@gmail.com}{\img{email}dellarosciagiorgio@gmail.com}$\quad\vert\quad$
+            \href{https://github.com/dellarosciagiorgio}{\img{github}dellarosciagiorgio}
         }
+        \vspace{1cm}
     \end{center}
-    \input{sections/1_summary}
+    \input{sections/1_education}
+    \vspace{7mm}\textcolor{black}{\hrule height 0.5mm}
     \input{sections/2_experience}
-    \input{sections/3_education}
-    \input{sections/4_skills}
+    \textcolor{black}{\hrule height 0.5mm}
+    \input{sections/3_skills}
 \end{document}
